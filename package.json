@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  },
+  "dependencies": {
+    "typeorm": "^0.2.30"
+  }
+}

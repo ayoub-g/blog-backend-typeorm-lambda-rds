@@ -1,0 +1,8 @@
+{
+    "body": {
+        "id": 1,
+        "content": "this is an updated post",
+        "user": 1,
+        "date": "2021-02-02T00:00:00Z"
+    }
+}
